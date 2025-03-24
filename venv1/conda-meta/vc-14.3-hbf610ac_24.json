@@ -1,0 +1,34 @@
+{
+  "build": "hbf610ac_24",
+  "build_number": 24,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.42.34438"
+  ],
+  "extracted_package_dir": "C:\\Users\\amani\\anaconda3\\pkgs\\vc-14.3-hbf610ac_24",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vc-14.3-hbf610ac_24.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\amani\\anaconda3\\pkgs\\vc-14.3-hbf610ac_24",
+    "type": 1
+  },
+  "md5": "9098c5cfb418fc0b0204bf2efc1e9afa",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\amani\\anaconda3\\pkgs\\vc-14.3-hbf610ac_24.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8ef83b62f9f0b885882d0dd41cbe47c2308f7ac0537fd508a5bbe6d3953a176e",
+  "size": 17469,
+  "subdir": "win-64",
+  "timestamp": 1741043406000,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.3-hbf610ac_24.conda",
+  "version": "14.3"
+}
